@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="egg" size="704.000000 480.000000" />
+    <ImageTarget name="AB" size="704.000000 480.000000" />
+    <ImageTarget name="Box" size="704.000000 480.000000" />
+    <ImageTarget name="Koto" size="704.000000 480.000000" />
+    <ImageTarget name="Puzzle" size="704.000000 480.000000" />
+    <ImageTarget name="SAO" size="704.000000 480.000000" />
+    <ImageTarget name="Suzumiya" size="704.000000 480.000000" />
+    <ImageTarget name="Yasuhara" size="704.000000 480.000000" />
+    <ImageTarget name="Todo" size="704.000000 480.000000" />
+    <ImageTarget name="Sakaki" size="704.000000 480.000000" />
+    <ImageTarget name="Imai" size="704.000000 480.000000" />
+    <ImageTarget name="Miyamori" size="704.000000 480.000000" />
+  </Tracking>
+</QCARConfig>
